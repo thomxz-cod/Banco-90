@@ -4,6 +4,7 @@
 }
 body{
     width: 100%;
+    background-color: rgb(243, 239, 233);
 }
 #colors{
     background-color: #302727;
@@ -121,4 +122,30 @@ main{
     display: flex;
     flex-direction: column;
     text-align: left;
+}
+
+#clientes {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+#clientes img{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+}
+
+
+
+
+
+footer{
+    height: 50px;
+    display: flex;
+    background-color: #ba2d2d;
+    color: white;
+    justify-content: center;
+    align-items: center;
 }

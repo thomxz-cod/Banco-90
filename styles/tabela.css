@@ -1,0 +1,31 @@
+#horario{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+#tabela{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px 10px 10px 10px;
+    background-color: white;
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(151, 151, 151);
+    margin-bottom: 20px;
+}
+
+#table{
+    border-collapse: collapse;
+}
+
+th{
+    color: white;
+    background-color: #ba2d2d;
+}
+
+td{
+    border: 1px solid black;
+}
