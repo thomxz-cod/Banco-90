@@ -22,7 +22,8 @@
 }
 
 th{
-    color: white;
+    color: rgb(241, 236, 236);
+    padding: 5px;
     background-color: #ba2d2d;
 }
 
